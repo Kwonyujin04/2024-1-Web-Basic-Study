@@ -31,7 +31,7 @@
     <th>공부내용</th>
   </tr>
   <tr>
-    <td colspan="3">HTML, CSS</td>
+    <td colspan="3">HTML, CSS, JS</td>
   </tr>
   <tr>
     <td>1주차</td>
