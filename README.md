@@ -96,4 +96,4 @@
 <br>
 
 ## 스터디 자료
-- HTML, CSS, JS: [vanilla coding. starter kit](https://book.vanillacoding.co/starter-kit/)
+
