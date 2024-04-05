@@ -31,6 +31,7 @@ body {
 	border: 3px solid white;
 	transition: 0.5s;
 	transform: skewX(-10deg);
+	overflow: hidden;
 }
 	
 .container .pokemons .pokemon:hover{
@@ -45,7 +46,6 @@ body {
 	background-size: 75px;
 	background-position: center;
 	background-repeat: no-repeat;
-	overflow: hidden;
 	transform: skewX(10deg);
 }
 
@@ -147,7 +147,7 @@ body {
 }
 
 .container .logo {
-	max-width: 2000px; 
+	max-width: 200px; 
 	margin: 0 auto;
   }
 
